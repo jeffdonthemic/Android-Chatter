@@ -1,0 +1,18 @@
+Salesforce Chatter for Android
+
+This is the demo of the application that I submitted for the Chatter Developer Challenge (2010). It is a Salesforce Chatter for Android app running on a combination of the Force.com platform, Google App Engine and a Google Android mobile handset. It utilizes Force.com Remote Access Applications with 3-legged OAuth for security. The Android application has the following functionality:
+
+Display your Chatter NewsFeed
+Update your User status
+Refresh your Chatter NewsFeed and store it in the local SQLite database
+Choose a project (custom object) that you are following and view its Chatter Feed
+Update the project’s status
+Refresh the Chatter Feed for the project (including field changes to the record) and store it in the local SQLite database
+
+See http://blog.jeffdouglas.com/2010/06/06/salesforce-chatter-for-android/ for more detailed info.
+
+Jeff Douglas
+Appirio
+
+http://blog.jeffdouglas.com
+http://www.cloudspokes.com

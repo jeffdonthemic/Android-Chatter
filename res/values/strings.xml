@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chatter for Android</string>
+    <string name="update_label">What are you working on?</string>
+    <string name="project_update_label">What are you working on?</string>
+    <string name="user_name">Matt Buchanan</string>
+    <string name="project_name">Salesforce.com Rollout</string>
+    <string name="button_share">Share</string>
+    <string name="button_request_token">Request Token</string>
+    <string name="button_authorize">Authorize</string>
+    <string name="no_updates">No Chatter status updates found... yet!</string>
+    <string name="menu_update_status">Update Status</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_projects">Projects</string>
+	<string name="menu_authorize">Authorize</string>
+    <string name="toast_refresh">Refreshing Chatter from Salesforce.com</string>
+    <string name="toast_projects">Here is your list of projects to chatter about</string>
+    <string name="auth_text">Authorize the Application with Google App Engine</string>
+</resources>

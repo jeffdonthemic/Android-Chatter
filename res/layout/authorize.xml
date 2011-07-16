@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    
+	<TextView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" 
+		android:text="@string/auth_text" 
+		android:layout_margin="5px" 
+		android:paddingBottom="20px" 
+		android:textSize="8pt"/>
+		
+	<Button android:id="@+id/button_request_token" 
+	  android:text="@string/button_request_token"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:width="200px" />
+		
+	<Button android:id="@+id/button_authorize" 
+	  android:text="@string/button_authorize"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:width="200px" />
+        
+</LinearLayout>
